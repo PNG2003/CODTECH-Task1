@@ -79,5 +79,6 @@ Vending Machine: FSM to handle coin input and product dispensing.
 
 
 
+Finite State Machine output ![Finite state machine](https://github.com/user-attachments/assets/5111d59e-cfb9-436c-b111-f4002bbf125a)
 
 
