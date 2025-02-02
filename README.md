@@ -4,7 +4,8 @@ Company: CODTECH IT SOLUTIONS
 ID: CT12DS2941
 Domain:VLSI(Very Large Scale Intergation)
 Duration: December to Feburary 2025
-Mentor:
+Mentor:NEELA SANTHOSH KUMAR HR@codtechitsolutions.com
+8074194666
 
 Project Overview: Designing Finite State Machines (FSMs) in Verilog/VHDL
 This project involves designing, simulating, and verifying Finite State Machines (FSMs) using Verilog or VHDL in a VLSI software environment. 
